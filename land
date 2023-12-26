@@ -1,6 +1,6 @@
 وaleo smart contract
 
-5000
+50000
 نصب پیش نیازها 
 ------------------------------------------------------------------
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
